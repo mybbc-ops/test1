@@ -2,6 +2,6 @@
   "name": "test1",
   "packaging": {
     "type": "php_webapp",
-    "requires": ["php"]
+    "requires": ["php", "datadog-agent"]
   }
 }
